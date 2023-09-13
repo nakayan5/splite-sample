@@ -4,7 +4,8 @@ sqlite tutorial
 
 ## reference
 
-- https://style.potepan.com/articles/30407.html
+- [SQLite Tutorial](https://www.sqlitetutorial.net/)
+- [SQLite の使い方 サンプルデータベースのインストールと基本 SQL の実行サンプル](https://style.potepan.com/articles/30407.html)
 
 ## command
 
